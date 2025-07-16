@@ -1,4 +1,4 @@
-FILEPATH = "E:\Python_Course\To-Do_App\To-Do data file.txt"
+FILEPATH = "C:\Users\shant\PycharmProjects\webapp1\To-Do data file.txt"
 
 def get_todos(filepath = FILEPATH):
     """Read a text file and return the list of To-Do items"""
